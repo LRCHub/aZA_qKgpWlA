@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Feiticeiro Gozador",
+  "base_artist": "Rubel",
+  "createdAt": "2026-03-26T03:39:38.682292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feiticeiro Gozador",
+      "artist": "Rubel",
+      "has_synced": false,
+      "path": "select/01_Feiticeiro_Gozador_Rubel.txt"
+    }
+  ]
+}
